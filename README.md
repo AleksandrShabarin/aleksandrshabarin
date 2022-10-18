@@ -15,8 +15,10 @@ I am a QA Engineer with a year and a half experience. For many years of work in 
 
 #### Testing Documentation:
 [![Checklist](https://img.shields.io/badge/-Checklist-090909?style=for-the-badge&logo=Checklist&logoColor=E6296CC)](https://t.me/alex_obron)
-[![Bug-reports](https://img.shields.io/badge/-Bug-reports-090909?style=for-the-badge&logo=Bug-reportst&logoColor=E6296CC)](https://t.me/alex_obron)
-[![Test-Cases](https://img.shields.io/badge/-Test-Cases-090909?style=for-the-badge&logo=Test-Cases&logoColor=E6296CC)](https://drive.google.com/drive/folders/1aFz05kJy81dhPMAoPEpL0gk2YeVGopwh?usp=sharing)
+
+[![Bug-reports](https://img.shields.io/badge/-BugReports-090909?style=for-the-badge&logo=Bugreports&logoColor=E6296CC)](https://t.me/alex_obron)
+
+[![Test-Cases](https://img.shields.io/badge/-TestCases-090909?style=for-the-badge&logo=TestCases&logoColor=E9D54D)](https://drive.google.com/drive/folders/1aFz05kJy81dhPMAoPEpL0gk2YeVGopwh?usp=sharing)
 
 
 #### Socials:
