@@ -1,8 +1,6 @@
 ### Hi, I'm Aleksandr 👋 
 I am a QA Engineer with a year and a half experience. For many years of work in sales, I understood what the quality of a product is for the end consumer.
 
-#### My CV:
-[![CV](https://img.shields.io/badge/-CV-090909?style=for-the-badge&logo=CV&logoColor=27A0D9)](https://drive.google.com/file/d/1yEg0yYCyvFJg2FP2Civ-bqV3vydpdO_b/view?usp=sharing)
 
 #### Languages and Tools:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL&logoColor=47C5FB)
