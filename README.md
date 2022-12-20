@@ -1,4 +1,4 @@
-### Добро пожаловать и привет! :cherry_blossom:
+### Добро пожаловать и привет!
 Меня зовут Александр. С сентября 2020 года я - инженер по тестированию программного обеспечения.</br>
 <!--
 **aleksandrshabarin
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </table>
   </br>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenaSkorobodilova)](https://github.com/ElenaSkorobodilova/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandrshabarin)](https://github.com/aleksandrshabarin/github-readme-stats)
 
 ## Дипломный проект
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
